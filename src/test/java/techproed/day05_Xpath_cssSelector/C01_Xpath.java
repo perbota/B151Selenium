@@ -1,4 +1,4 @@
-package techproed.day5_Xpath_cssSelector;
+package techproed.day05_Xpath_cssSelector;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
